@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": "public",
+    "rewrites": [
+      {
+        "source": "/law5",
+        "destination": "https://us-central1-big-ask.cloudfunctions.net/bigask-law-v5-geX1IKiB-2Iyr4rMV-nUQl7bDO-OOFP3rKB"
+      }
+    ]
+  }
+}
+
